@@ -2,9 +2,9 @@
 
 ![Chart showing rise in cost of textbooks](textbook_cpi.png)
 
-Open Education Resources (OER) are important for many reasons. One reason, as the above chart illustrates, is the cost of textbooks, which is rising at a rate higher than most other consumer goods. Given the rising cost of tuition at many institutions, many students simply cannot afford to buy textbooks. OER is a way to make sure every student has access to course materials, with cost taken out of the equation.
+Open Education Resources (OER) are important for many reasons. One reason, as the above chart illustrates, is the cost of textbooks, which is rising at a rate higher than all other consumer goods. Given the rising cost of tuition at many institutions, many students simply cannot afford to buy textbooks. OER is a way to make sure every student has access to course materials on the first day of class, with cost taken out of the equation.
 
-OER also allows faculty to create material that is customized for their classes. Where most textbooks will have their strengths and weaknesses, OER material allows a faculty member to pull only strong material into their class.
+OER also allows faculty to create material that is customized for their classes, which can also support interdisciplinary efforts. Where most textbooks will have their strengths and weaknesses, OER material allows a faculty member to pull only strong material into their class.
 
 OER also represents an opportunity to have one's own materials enhanced. By allowing material to be modified by other faculty around the world, an OER creator has the chance to see material used in ways never imagined. New sections and chapters can be added and enhanced creating a work stronger than the original. That type of exposure and collaboration is simply not possible with material that lives on a local computer or only in print.
 
